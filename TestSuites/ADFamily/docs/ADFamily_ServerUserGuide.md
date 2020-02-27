@@ -1110,7 +1110,7 @@ You can use the Visual Studio solution (.sln) file included with this test suite
 ![image2.png](./image/ADFamily_ServerUserGuide/image2.png)
 Note
 
-* Clone the source code from [**GitHub**](https://github.com/Microsoft/WindowsProtocolTestSuites) and open the solution file(AD_Server.sln) under **WindowsProtocolTestSuites\TestSuites\ADFamily\src** folder.
+* Clone the source code from [**GitHub**](~/WindowsProtocolTestSuites) and open the solution file(AD_Server.sln) under **WindowsProtocolTestSuites\TestSuites\ADFamily\src** folder.
 
 * While using Microsoft® Visual Studio® 2017 or above to run test cases, test suite may throw exception with message of “Cannot get test site”. To solve this issue, please select the test settings file under test settings menu.
 
