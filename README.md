@@ -170,7 +170,7 @@ There are two more documents in the same folder:
 
 ## Contribute
 
-You can find contributing guide [here](./CONTRIBUTING.md).
+You can find contributing guide [here](~/blob/staging/CONTRIBUTING.md).
 
 ## License
 
