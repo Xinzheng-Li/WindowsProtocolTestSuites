@@ -107,10 +107,10 @@ The **Test Suite** examines protocol implementation behaviors that are observed 
 
 To learn more about File Server Test Suite design, see the following documentation:
   
-* [File Server Protocol Family Test Design Specification](~/blob/staging/TestSuites/FileServer/docs/FileServerTestDesignSpecification.md)
-* [Authentication Protocol Server Test Design Specification](~/blob/staging/TestSuites/FileServer/docs/Auth_ServerTestDesignSpecification.md)
-* [MS-FSA Protocol Server Test Design Specification](~/blob/staging/TestSuites/FileServer/docs/MS-FSA_ServerTestDesignSpecification.md)
-* [MS-SQOS Protocol Server Test Design Specification](~/blob/staging/TestSuites/FileServer/docs/MS-SQOS_ServerTestDesignSpecification.md)
+* [File Server Protocol Family Test Design Specification](./FileServerTestDesignSpecification.md)
+* [Authentication Protocol Server Test Design Specification](./Auth_ServerTestDesignSpecification.md)
+* [MS-FSA Protocol Server Test Design Specification](./MS-FSA_ServerTestDesignSpecification.md)
+* [MS-SQOS Protocol Server Test Design Specification](./MS-SQOS_ServerTestDesignSpecification.md)
 
 ![](./image/FileServerUserGuide/image1.png)**Tip**
 
